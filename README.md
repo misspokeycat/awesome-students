@@ -13,3 +13,6 @@ A curated list of awesome freebies/benefits for student developers.
 
 ## Collaboration Tools
 [Atlassian Classroom Licence](https://www.atlassian.com/survey/classroom-license-request) - free access to basic versions of Atlassian software, including JIRA, Confluence, and HipChat
+
+## UI/UX Devlopement
+[Axure](https://www.axure.com/edu) - free access to Axure UI/UX prototyping tools, useful for mocking up a design
