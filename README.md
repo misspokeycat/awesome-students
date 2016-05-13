@@ -24,5 +24,5 @@ A curated list of awesome freebies/benefits for student developers.
 
 
 
-[lynda-link]:https://authentic.txstate.edu/idp/profile/SAML2/Redirect/SSO;jsessionid=6903A8DB09E2FD651D696CF0D40FDE2B?execution=e1s1
+[lynda-link]:https://shib.lynda.com/Shibboleth.sso/InCommon?providerId=https://authentic.txstate.edu/idp/shibboleth&target=https://shib.lynda.com/InCommon
 [safari-link]:https://login.libproxy.txstate.edu/login?qurl=http%3a%2f%2flibproxy.txstate.edu%2flogin%3furl%3dhttp%3a%2f%2fproquest.safaribooksonline.com%2f%3fuicode%3d804642
