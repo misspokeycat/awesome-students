@@ -16,3 +16,13 @@ A curated list of awesome freebies/benefits for student developers.
 
 ## UI/UX Devlopement
 [Axure](https://www.axure.com/edu) - free access to Axure UI/UX prototyping tools, useful for mocking up a design
+
+## Learning Resources
+[Lynda][lynda-link] - video learning for technology, business, and creative skills
+
+[Safari Books][safari-link] - fully-searchable e-book library of over 1,600 current IT books
+
+
+
+[lynda-link]:https://shib.lynda.com/Shibboleth.sso/InCommon?providerId=https://authentic.txstate.edu/idp/shibboleth&target=https://shib.lynda.com/InCommon
+[safari-link]:https://login.libproxy.txstate.edu/login?qurl=http%3a%2f%2flibproxy.txstate.edu%2flogin%3furl%3dhttp%3a%2f%2fproquest.safaribooksonline.com%2f%3fuicode%3d804642
