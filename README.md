@@ -11,6 +11,10 @@ A curated list of awesome freebies/benefits for student developers.
 
 [Microsoft DreamSpark](https://www.dreamspark.com/student/Software-Catalog.aspx) - free access to Visual Studio, Microsoft Server, and some other software applications (many schools offer DreamSpark premium, which has even more freebies.)
 
+[sigasi](http://www.sigasi.com/edu/) - students and Professors can get a free license of Sigasi Studio Creator or Sigasi Studio XL Doc for educational purposes
+
+[RapidMiner](https://rapidminer.com/educational-program/) - Unlimited datarow for RapidMiner Studio and Unlimited RAM for RapidMiner Server and SparkRM Support (All 1500+ RapidMiner Operators) for RapidMiner Radoop
+
 ## Collaboration Tools
 [Atlassian Classroom Licence](https://www.atlassian.com/survey/classroom-license-request) - free access to basic versions of Atlassian software, including JIRA, Confluence, and HipChat
 
@@ -21,6 +25,7 @@ A curated list of awesome freebies/benefits for student developers.
 [Lynda][lynda-link] - video learning for technology, business, and creative skills
 
 [Safari Books][safari-link] - fully-searchable e-book library of over 1,600 current IT books
+
 
 
 
