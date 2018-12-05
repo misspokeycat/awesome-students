@@ -6,6 +6,9 @@ A curated list of awesome freebies/benefits for student developers.
 
 [GitHub for Students](https://education.github.com/pack) - free credits for several cloud offerings, including 5 free private Github repositories for while you are a student, and another free $15 in AWS credits
 
+
+[Shodan](https://Shodan.io/) - Sign-up to Shodan with an academic email address (ex: .edu, .ac.uk) to receive an automatic, free upgrade! Don't have an academic TLD? Email academic@shodan.io for a manual upgrade
+
 ## IDEs
 [JetBrains](https://www.jetbrains.com/student/) - free access to JetBrains IDEs, including ReSharper, WebStorm, and IntelliJ
 
