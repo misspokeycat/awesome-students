@@ -18,6 +18,8 @@ A curated list of awesome freebies/benefits for student developers.
 ## Collaboration Tools
 [Atlassian Classroom Licence](https://www.atlassian.com/survey/classroom-license-request) - free access to basic versions of Atlassian software, including JIRA, Confluence, and HipChat
 
+[Taskade](https://www.taskade.com) - team productivity made simple and fun, offering free 1 year upgrade to Taskade Pro for students, and 50% off permanent discount using coupon code: students50
+
 ## UI/UX Devlopement
 [Axure](https://www.axure.com/edu) - free access to Axure UI/UX prototyping tools, useful for mocking up a design
 
